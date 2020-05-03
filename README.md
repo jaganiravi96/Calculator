@@ -4,8 +4,8 @@ Calculator using JavaScript, HTML, and CSS.
 ------------------------------------------------------------------
 				Synopsis
 ------------------------------------------------------------------
-Calculator with all basic funcation like summitation, 
-
+Calculator with all basic funcation like summitation, subtraction,
+multiplication and division.
 
 
 ------------------------------------------------------------------ 
@@ -23,8 +23,9 @@ To run the project, type the following in the browser:
 			Features
 ------------------------------------------------------------------
 
-Player name will high lighted with notation of current player
-Use of random function & DOM in javascirpt
+Users should be able to string together several operations
+and get the right answer: 12 + 7 - 5 * 3 etc.
+Use HTML, CSS & javascirpt
 
 ------------------------------------------------------------------
 			Functionalities
@@ -35,11 +36,12 @@ Start the servers - Apache tomcat.
 
 2. index page
 
-See the rule define and play the game
+See the rule define and use Calculator
 
 
 ------------------------------------------------------------------
 			References
 ------------------------------------------------------------------
-Udemy javascirpt course
+
+Template :- https://codepen.io/lalwanivikas/pen/eZxjqo
 
